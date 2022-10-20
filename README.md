@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from 🇵🇱 Poland</h3>
 
 <p>
-	I graduated from High School No. 9 in Częstochowa. I am a fan of problem solving (mainly Competitive Programming), interesting technological solutions and nice design. In my free time I create gorgeous and useful things. I also love meeting interesting people - see below how to contact me (I will be very pleased).
+	I am currently a first year student of Computer Science at the University of Wrocław. I am a fan of problem solving (mainly Competitive Programming), interesting technological solutions and nice design. In my free time I create gorgeous and useful things. I also love meeting interesting people - see below how to contact me (I will be very pleased).
 <p>
 
 <p align="center">
@@ -39,11 +39,11 @@
 	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </p>
 
-<h4>Design</h4>
+<!-- <h4>Design</h4>
 <p>
 	<img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp Gnu Image Manipulation Program">
 	<img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" alt="Inkscape">
-</p>
+</p> -->
 
 <h4>Operating Systems</h4>
 <p>
