@@ -7,9 +7,10 @@ I'm John, I'm a third-year **Computer Science student** at the University of Wro
 ## 🏆 Achievements
 
 * **Bronze Medalist** at the ICPC Polish Regional Contest 2024 (12th place).
-* Finalist of the **Polish Olympiad in Informatics**.
+* Participated in the ICPC Central Europe Regional Contest 2024 (27th place).
+* Finalist of the **Polish Olympiad in Informatics (OI)**.
 * Successful participation in competitions like:
-	* **Algorithmic Engagements** (the biggest open programming competition in Poland).
+	* **Algorithmic Engagements (Potyczki Algorytmiczne)** - the biggest open programming competition in Poland.
 	* **Polish Championship in Team Programming of High School Students**.
 
 ---
